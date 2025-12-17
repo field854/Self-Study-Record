@@ -13,3 +13,6 @@ __pycache__/
 #Ignore the binary file
 *.o
 *.out
+
+#Ignore python virtual environment
+.venv/
